@@ -166,7 +166,7 @@ strong {
 
 #header {
     background: #003a63;
-    background-image: url(../images/header_bg.jpg);
+    background-image: url(/static/images/header_bg.jpg);
     background-repeat: no-repeat;
     background-position: top center;
 }
@@ -407,7 +407,7 @@ a.csbbtn-sm {
 
 #informational {
     background: #003a63;
-    background-image: url(../images/informational_bg.jpg);
+    background-image: url(/static/images/informational_bg.jpg);
     background-repeat: no-repeat;
     background-position: bottom center;
     height: 633px;
